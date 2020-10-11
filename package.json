@@ -1,0 +1,42 @@
+{
+  "name": "rn-autoresize-font",
+  "version": "1.0.0",
+  "description": "RN auto font size resizing to fit parent container width",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niktechnopro/rn-autoresize-font.git"
+  },
+  "keywords": [
+    "RN",
+    "font",
+    "size",
+    "RN",
+    "font",
+    "resize",
+    "font",
+    "auto",
+    "adjust",
+    "iOS",
+    "font",
+    "size",
+    "android",
+    "font",
+    "size",
+    "font",
+    "auto",
+    "resizer"
+  ],
+  "author": "niktechnopro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niktechnopro/rn-autoresize-font/issues"
+  },
+  "homepage": "https://github.com/niktechnopro/rn-autoresize-font#readme",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.63.0"
+  }
+}
