@@ -1,3 +1,3 @@
-import TextRiseze from "./TextResize";
+import TextResize from "./TextResize";
 
-export { TextRiseze };
+export { TextResize };
