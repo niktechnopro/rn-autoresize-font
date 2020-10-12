@@ -4,7 +4,7 @@
 npm install rn-autoresize-font
 
 ## Description
-This simple package was created to solve automatic font  auto resize problems, that may occur on devices with various screen sizes. It works by automatically resizing font to fit into Container box (View). This functionality comes pre-built with iOS (https://reactnative.dev/docs/text.html#adjustsfontsizetofit), but for Android it has to be implemented.<br /> 
+This simple package was created to autorise Text font size to fit inside parent container, that may occur on devices that adjust layout depending on various screen sizes. It works by automatically resizing font to fit into Container box (View). This functionality comes pre-built with iOS (https://reactnative.dev/docs/text.html#adjustsfontsizetofit), but for Android it has to be implemented.<br /> 
 Use it instead of "react-native" **Text** component.
 
 ## Usage/Example
