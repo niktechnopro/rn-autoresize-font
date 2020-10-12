@@ -1,6 +1,6 @@
 {
   "name": "rn-autoresize-font",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "RN auto font size resizing to fit parent container width",
   "main": "index.js",
   "scripts": {
