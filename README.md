@@ -26,7 +26,7 @@ import TextResize from "rn-autoresize-font";
 or simply copy TextResize.js component into your project
 
 ## Note
-The logic designed to downsize the fontSize of Text component on Android, also if there is a big difference between "desired" font and "font that will fit" - the downsizing will be visible. It works great, if let's say you desire fontSize : 20, but based on screen size - it may need to be 18 - the fontSize will seamlessly adjust to fit the outer container;
+The logic designed to downsize the fontSize of Text component on Android, also if there is a big difference between "desired" font and "font that will fit" - the downsizing will be visible. It works great, if let's say you desire fontSize : 20, but based on screen size - it may need to be 18 - the fontSize will seamlessly adjust to fit the outer container and prevent text wrap or trancation;
 
 ## HELP
 https://stackoverflow.com/questions/38386704/react-native-determine-number-of-lines-of-text-component;
