@@ -1,5 +1,8 @@
 # react native font autoresize
 
+## npm 
+https://www.npmjs.com/package/rn-autoresize-font
+
 ## Installation
 npm install rn-autoresize-font
 
